@@ -1,0 +1,16 @@
+Teachable Machines
+https://ml-playground.com/
+https://www.elementsofai.com/
+
+
+Python
+https://repl.it/
+glot.io
+
+
+PythonGuide
+https://realpython.com/python-comments-guide/
+https://www.w3schools.com/python/python_ref_keywords.asp
+
+Data Science
+https://data-flair.training/blogs/data-science-tutorials-home/
